@@ -1,0 +1,8 @@
+text
+.env
+venv/
+__pycache__/
+data/invoices/
+whatsapp_session/
+*.xlsx
+*.pdf
